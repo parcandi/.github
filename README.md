@@ -7,4 +7,4 @@ Parcandi started as a pilot project at [Baloise Insurance](https://github.com/ba
 
 Today, [Corsin](https://www.linkedin.com/in/corsin-sulser/) is the CEO of the [Parcandi](https://parcandi.com/ch-en/) startup, who's team makes this novel approach to parking space management available to a broader public.
 # About our platform
-[Baloise Insurance](https://github.com/baloise) open-sourced the initial MVP source code under the Apache 2.0 licence. With the [Parcandi](https://parcandi.com/ch-en/) incorporation, [Baloise Insurance](https://github.com/baloise) revoked the open source licence. Today, the source code is the sole property of [Parcandi](https://parcandi.com/ch-en/).
+[Baloise Insurance](https://github.com/baloise) open-sourced the initial MVP source code under the Apache 2.0 licence. With the [Parcandi](https://parcandi.com/ch-en/) incorporation, [Baloise Insurance](https://github.com/baloise) revoked the open source licence and unpublished the code. Today, the source code is the sole property of [Parcandi](https://parcandi.com/ch-en/).
