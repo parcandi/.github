@@ -5,6 +5,6 @@ Parcandi started as a pilot project at [Baloise Insurance](https://github.com/ba
 
 [Corsin](https://www.linkedin.com/in/corsin-sulser/), a former [Baloise Insurance](https://github.com/baloise) employee, elaborated his vision to a MVP by the internal innovation initiative «Baloise Kickbox» and with the help of the IT innovation "Bets" Team: Enabling the easy sharing of empty parking lots. Together with a handful of further [Baloise Insurance](https://github.com/baloise) employees, he successfully built an organization around the MVP and deployed it to the market.
 
-Today, [Corsin](https://www.linkedin.com/in/corsin-sulser/) is the CEO of the [Parcandi](https://parcandi.com/ch-en/) startup, who's team adavnced the MVP further to a mature application making this novel approach to parking space management available to a broader public.
+Today, [Corsin](https://www.linkedin.com/in/corsin-sulser/) is the CEO of the [Parcandi](https://parcandi.com/ch-en/) startup, who's team advanced the MVP further to a mature application making this novel approach to parking space management available to a broader public.
 # About our platform
 [Baloise Insurance](https://github.com/baloise) open-sourced the initial MVP source code under the Apache 2.0 licence. With the [Parcandi](https://parcandi.com/ch-en/) incorporation, [Baloise Insurance](https://github.com/baloise) revoked the open source licence and unpublished the code. Today, the source code is the sole property of [Parcandi](https://parcandi.com/ch-en/).
